@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BattleShip
 {
-    class AircraftCarrier
+    class AircraftCarrier : Vessel
     {
     }
 }
